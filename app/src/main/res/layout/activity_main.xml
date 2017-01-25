@@ -18,7 +18,7 @@
         android:name="id.sch.smktelkom_mlg.learn.fragment1.OutputFragment"
         android:id="@+id/fragmentOutput"
         tools:layout="@layout/fragment_output"/>
-    
+
     <fragment
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
